@@ -1,5 +1,5 @@
 # 🪐 About Me:
-🧠 Currently working on: Introducing frontend testing to the Balancer Project, which is a great open source app I found through Code For Philly<br>👥 I'm looking for community! Let me know what meetups and hacknights you like, or what open source projects you enjoy!<br>👂 I'm good at listening! Let's chat sometime :)<br>🤘 Fun fact: I used to run a record label! I love music and when I have time there is a media player I'm building that uses Web Audio API to play multitrack songs. 
+🧠 Currently working on: I work at a Startup in Philadelphia called CallSine and I'm pursuing a Masters in Computer Science through Tufts School of Engineering. I am on Gitlab in private repos so this is pretty empty lately! But I love to follow discussions and find new libraries. 
 
 
 ## 🌐 Socials:
