@@ -1,6 +1,5 @@
 # 🪐 About Me:
-🧠 Currently working on: I work at a Startup in Philadelphia called CallSine and I'm pursuing a Masters in Computer Science through Tufts School of Engineering. I am on Gitlab in private repos so this is pretty empty lately! But I love to follow discussions and find new libraries. 
-
+🧠 I am a former music industry entrepreneur currently pursuing ways to improve the world with technology. I have worked with startups and on volunteer projects and am currently looking for Fullstack opportunities in the TypeScript and Django stack. I'm pursuing a Masters in Computer Science through Tufts School of Engineering, and recently wrote a paper desigining a program that creates a dynamic response to air quality and wildfire events to optimize cooling for data centers. I have worked quite a bit on Gitlab in private repos so there are gaps in my production on Github! But I love to follow discussions and find new libraries. 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krist0tsirk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kristobaricevic) 
