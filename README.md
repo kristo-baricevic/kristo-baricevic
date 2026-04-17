@@ -1,5 +1,5 @@
 # 🪐 About Me:
-🧠 I am a former music industry entrepreneur currently pursuing ways to improve the world with technology. I have worked with startups and on volunteer projects and am currently looking for Fullstack opportunities in the TypeScript and Django stack. I'm pursuing a Masters in Computer Science through Tufts School of Engineering, and recently wrote a paper desigining a program that creates a dynamic response to air quality and wildfire events to optimize cooling for data centers. I have worked quite a bit on Gitlab in private repos so there are gaps in my production on Github! But I love to follow discussions and find new libraries. 
+🧠 I am a former music industry entrepreneur currently pursuing ways to improve the world with technology.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kristobaricevic) 
