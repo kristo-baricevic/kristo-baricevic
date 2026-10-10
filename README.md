@@ -1,5 +1,6 @@
 # 🪐 About Me:
-🧠 I am a former music industry entrepreneur currently pursuing ways to improve the world with technology.
+• I am a musician and former music industry entrepreneur currently pursuing ways to improve the world with technology. 
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kristobaricevic) 
